@@ -1,17 +1,9 @@
 /* Class */
 
-.red {
+p.red {
   color: red;
 }
 
-.blue {
+span.blue {
   background-color: blue;
-}
-
-.font {
-  font-size: 30px;
-}
-
-.style {
-  text-decoration: line-through;
 }
