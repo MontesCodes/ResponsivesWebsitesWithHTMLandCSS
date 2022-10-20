@@ -1,1 +1,17 @@
-/* Div and SPAN */
+/* Class */
+
+.red {
+  color: red;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.font {
+  font-size: 30px;
+}
+
+.style {
+  text-decoration: line-through;
+}
