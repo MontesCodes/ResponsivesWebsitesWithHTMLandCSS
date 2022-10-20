@@ -1,15 +1,17 @@
-/* HEADER */
-
 /* selector{
      property:value;
 } */
+/* type Selector
+comments
+Type Selector
+Grouping */
 
-/* SIDE BAR */
+h1,
+h3,
+p {
+  color: dodgerblue;
+  font-size: 40px;
+}
 
-/* CONTENT */
-
-/* FOOTER */
-
-/* FORMS */
-
-/* GENERAL GUBBINS */
+h1 {
+}
