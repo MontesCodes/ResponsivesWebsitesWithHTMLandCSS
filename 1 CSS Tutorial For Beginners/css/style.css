@@ -1,20 +1,20 @@
-/* ID */
+/* Attributes */
 
-.red {
-  color: red;
+a[href] {
+  background-color: red;
 }
-p.red {
+
+a[href] {
   font-size: 30px;
 }
 
-span.blue {
-  background-color: blue;
+a[href^='http'] {
+  background-color: green;
+}
+a[href$='html'] {
+  background-color: gold;
 }
 
-#one {
+span[class] {
   background-color: yellow;
-}
-
-#two {
-  background-color: brown;
 }
